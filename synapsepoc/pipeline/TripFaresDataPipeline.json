@@ -469,7 +469,7 @@
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
-				"defaultValue": "phi32rotxxmr2boupocws1.sql.azuresynapse.net"
+				"defaultValue": "phi32rotxxmr2boupocws1"
 			},
 			"SQLLoginUsername": {
 				"type": "string",
