@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "dlsphipocfs1"
+				"defaultValue": "phi32rotxxmr2boupoc"
 			}
 		},
 		"folder": {
