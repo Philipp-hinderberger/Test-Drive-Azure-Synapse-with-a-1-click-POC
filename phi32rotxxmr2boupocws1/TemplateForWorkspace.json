@@ -516,7 +516,7 @@
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
-						"defaultValue": "phi32rotxxmr2boupocws1.sql.azuresynapse.net"
+						"defaultValue": "phi32rotxxmr2boupocws1"
 					},
 					"SQLLoginUsername": {
 						"type": "string",
@@ -1317,7 +1317,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "a03b7ab7-4b8e-45ba-b7dd-c1512b42d37a"
+						"spark.autotune.trackingId": "0b8ebe69-7787-4685-86ef-ec1ad82f329a"
 					}
 				},
 				"metadata": {
